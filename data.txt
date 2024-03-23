@@ -1,0 +1,6 @@
+The quick brown fox jumps over the lazy dog. A stitch in time saves nine. All's well that ends well. To be or not to be, that is the question. All for one, and one for all. It was the best of times, it was the worst of times. In the beginning God created the heavens and the earth.
+ "I like going for walks in the park.",
+    "Reading books is one of my favorite hobbies.",
+    "Pizza is the best food ever!",
+    "Coding is both challenging and rewarding.",
+    "I enjoy spending time with my friends and family."
